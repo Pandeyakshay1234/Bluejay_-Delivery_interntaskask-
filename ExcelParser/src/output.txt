@@ -1,0 +1,39 @@
+PS C:\Users\aksha\Downloads\ExcelParser>  & 'C:\Program Files\Java\jdk1.8.0_202\bin\java.exe' '-cp' 'C:\Users\aksha\AppData\Local\Temp\cp_8ffovnt6c21d542ty0s6twpkc.jar' 'com.ExcelParser.ReadExcelFile'
+who has worked for 7 consecutive days:------->>>
+                 Employee Name: CEreira Jr, JEse,       Position:  WFS000456
+                 Employee Name: Sparks, KeWWeMh,        Position:  WFS000101
+                 Employee Name: GAeWdia, JAaW CarXEs,   Position:  WFS000473
+                 Employee Name: SiWgh, JaspreeM,        Position:  WFS000424
+who have less than 10 hours of time between shifts but greater than 1 hour:------->>>
+                 Employee Name: CEreira Jr, JEse,       Position:  WFS000456
+                 Employee Name: MraW, WiXXiaC Ha,       Position:  WFS000345
+                 Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S,        Position:  WFS000523
+                 Employee Name: HaCiXMEW, DeaWMe DevEW,         Position:  WFS000536
+                 Employee Name: De Xa Cerda, IgWaciE,   Position:  WFS000318
+                 Employee Name: CaMaXaWE, CeghaW,       Position:  WFS000153
+                 Employee Name: Xee, XaCar,     Position:  WFS000200
+who has worked for 14 hrs shift:------->>>
+                 Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S,        Position:  WFS000523
+PS C:\Users\aksha\Downloads\ExcelParser>  c:; cd 'c:\Users\aksha\Downloads\ExcelParser'; & 'C:\Program Files\Java\jdk1.8.0_202\bin\java.exe' '-cp' 'C:\Users\aksha\AppData\Local\Temp\cp_8ffovnt6c21d542ty0s6twpkc.jar' 'com.ExcelParser.ReadExcelFile'
+who has worked for 7 consecutive days:------->>>
+                 Employee Name: CEreira Jr, JEse,       Position:  WFS000456
+                 Employee Name: Sparks, KeWWeMh,        Position:  WFS000101
+                 Employee Name: GAeWdia, JAaW CarXEs,   Position:  WFS000473
+                 Employee Name: SiWgh, JaspreeM,        Position:  WFS000424
+who have less than 10 hours of time between shifts but greater than 1 hour:------->>>
+                 Employee Name: CEreira Jr, JEse,       Position:  WFS000456
+                 Employee Name: MraW, WiXXiaC Ha,       Position:  WFS000345
+                 Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S,        Position:  WFS000523
+                 Employee Name: HaCiXMEW, DeaWMe DevEW,         Position:  WFS000536
+                 Employee Name: De Xa Cerda, IgWaciE,   Position:  WFS000318
+                 Employee Name: CaMaXaWE, CeghaW,       Position:  WFS000153
+                 Employee Name: Xee, XaCar,     Position:  WFS000200
+who has worked for 14 hrs shift:------->>>
+                 Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S,        Position:  WFS000523
+PS C:\Users\aksha\Downloads\ExcelParser>
+
+
+
+
+
+
